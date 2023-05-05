@@ -16,15 +16,16 @@
 
 ## I'm Coder, Gamer and Sushi Lover.
 
-- :mortar_board: Currently i'm a development and analysis systems student.
-- :necktie: I'm intern in a RPA and software development team.
+- :mortar_board: Currently i'm a Data Science and Big Data student.
+- :necktie: I'm Systems Analyst in a RPA and software development team.
 - :rocket: I'm in constant learning and discovering things!
-- :star: 2022 Goals: Finish my certificates on Project Management and Data Science
+- :star: 2023 Goals: Expand my knoledge and experiences keeping new projects
 - :guitar: Fun fact: I play guitar, games and skate sometimes.
 
 ### Language and Tools:
 - Python
 - SQL
+- Golang
 - C++
 - Java
 - HTML5
