@@ -10,16 +10,15 @@
 - :mortar_board: Currently i'm a Data Science and Big Data student.
 - :necktie: I'm Systems Analyst in a RPA and software development team.
 - :rocket: I'm in constant learning and discovering things!
-- :star: 2023 Goals: Expand my knoledge and experiences keeping new projects
-- :guitar: Fun fact: I play guitar, games and skate sometimes.
+- :star: 2024 Goals: Improve my role
+- :guitar: Fun fact: Guitar'n games. I'm RPG player
 
 ### Language and Tools:
 - Python
 - DataScience
 - ML/DL
-- Docker/Kubernets
+- Docker/Kubernetes
 - Golang
-- Java
 - JavaScript
 <br />
 <br />
