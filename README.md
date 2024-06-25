@@ -17,7 +17,6 @@
 - Python
 - DataScience
 - ML/DL
-- Docker/Kubernetes
 - Golang
 - JavaScript
 <br />
