@@ -7,18 +7,19 @@
 
 ### Hi there! I'm Gustavo Rambaldi
 
-- :mortar_board: Currently i'm a Data Science and Big Data student.
-- :necktie: I'm Systems Analyst in a RPA and software development team.
+- :mortar_board: Currently i'm a Data Engineering student.
+- :necktie: I'm RPA Developer and Data Engineer.
+- 📈: I'm postgraduated in Data Science and Big Data
 - :rocket: I'm in constant learning and discovering things!
-- :star: 2024 Goals: Improve my role
+- :star: 2025 Goals: Improve my role
 - :guitar: Fun fact: Guitar'n games. I'm RPG player
 
 ### Language and Tools:
 - Python
+- RPA
 - DataScience
+- ETL/ELT
 - ML/DL
-- Golang
-- JavaScript
 <br />
 <br />
 
