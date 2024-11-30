@@ -9,7 +9,7 @@
 
 - :mortar_board: Currently i'm a Data Engineering student.
 - :necktie: I'm RPA Developer and Data Engineer.
-- 📈: I'm postgraduated in Data Science and Big Data
+- 📈 I'm postgraduated in Data Science and Big Data
 - :rocket: I'm in constant learning and discovering things!
 - :star: 2025 Goals: Improve my role
 - :guitar: Fun fact: Guitar'n games. I'm RPG player
